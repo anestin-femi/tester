@@ -20,6 +20,6 @@ setup(name='blendtester',
       author='anestn femi',
       author_email='apmetdrm@example.com',
       license='MIT',
-      packages=['tester'],
+      packages=['blendtester'],
       include_package_data=True,
       zip_safe=False)
