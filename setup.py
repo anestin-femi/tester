@@ -5,7 +5,7 @@ def readme():
     with open('README.txt') as f:
         return f.read()
 
-setup(name='tester',
+setup(name='blendtester',
       version='0.1',
       description='to test the upload module',
       long_description=readme(),
